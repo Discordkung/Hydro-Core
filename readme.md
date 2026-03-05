@@ -36,4 +36,4 @@ The best investment you can make is in your health... and good health starts sim
 4. Execute the consumer application:
    ```bash
    python main.py
-   python main.py
+
